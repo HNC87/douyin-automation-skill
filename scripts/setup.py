@@ -14,7 +14,7 @@ from pathlib import Path
 
 SKILL_DIR = Path(__file__).resolve().parent.parent
 CONFIG_FILE = SKILL_DIR / "CONFIG.md"
-BACKEND_REPO = "https://github.com/HNC87/douyin-agent-master.git"
+BACKEND_REPO = "https://github.com/HNC87/douyin-agent-master2.git"
 SKILL_REPO = "https://github.com/HNC87/douyin-automation-skill.git"
 
 
